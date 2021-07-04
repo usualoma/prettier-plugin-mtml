@@ -1,0 +1,15 @@
+{
+  "name": "prettier-plugin-mtml",
+  "version": "1.0.0",
+  "description": "",
+  "bin": "bin/prettier-mtml.js",
+  "main": "lib/api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^2.3.2"
+  }
+}
